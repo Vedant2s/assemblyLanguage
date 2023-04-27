@@ -18,7 +18,7 @@ endm
 .stack 100H
 
 .data
-m0 db 10,13," SYITB116 Shantanu Sutar $"
+m0 db 10,13," SYITB111 Vedant Sonawane $"
 m1 db 10,13,"How many numbers ?:- $"
 m2 db 10,13, "Enter numbers ?:- $"
 m3 db 10,13, "Addition -$"
